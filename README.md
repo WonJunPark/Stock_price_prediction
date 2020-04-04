@@ -2,3 +2,7 @@
 삼성전자 주가 예측
 
 reference : https://github.com/kairess/stock_crypto_price_prediction
+
+- 정규화 변경 : z-score
+- 최적화 함수 변경 : adam
+- 값 복원
